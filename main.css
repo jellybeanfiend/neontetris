@@ -1,4 +1,12 @@
-html, body{
-	overflow:hidden;
-	margin: 0px;
+.canvas_div{
+	/*overflow:hidden;*/
+	margin: auto;
+	width:600px;
+	height:600px;
+}
+#game_canvas{
+	border: 1px solid #000;
+	width: inherit;
+	height: inherit;
+	margin:auto;
 }
